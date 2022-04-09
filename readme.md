@@ -11,7 +11,11 @@
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=Saryio&theme=gotham&hide_border=true" />
 </div>
 
-
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
+  
 ## Frase 
 <div align="center">
 O primeiro passo para o entendimento é a confusão.
