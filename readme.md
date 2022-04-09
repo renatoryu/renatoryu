@@ -1,7 +1,10 @@
-<div align="center">
+
 ## Oie, eu me chamo Renato, sou programador e amante da tecnologia!
+
+<div align="center">
 Python hoje, Python amanhã, Python sempre!
 </div>
+
 
 <div align="center">
   <a href="https://github.com/renatoryu">
