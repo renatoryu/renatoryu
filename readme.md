@@ -11,7 +11,7 @@ Olá! <img src="https://user-images.githubusercontent.com/42378118/110234147-e32
 </div>
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=renatoryu)
+![Profile Views](https://komarev.com/ghpvc/?username=renatoryu)
 </div>
 
   
