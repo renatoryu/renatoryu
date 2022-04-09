@@ -1,5 +1,3 @@
-<img style = "margin-top: 40px;" align="right" width = "width" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
-
 
 ## Oie, eu me chamo Renato, sou programador e amante da tecnologia!
 - 🎓 Tecnico em Desenvolvimento de Sistemas
@@ -9,6 +7,7 @@
   <a href="https://github.com/renatoryu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatoryu&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoryu&layout=compact&langs_count=7&theme=gotham"/>
+  <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=Saryio&theme=tokyonight&hide_border=true" />
 </div>
 
 
