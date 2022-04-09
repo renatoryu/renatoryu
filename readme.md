@@ -1,7 +1,7 @@
 Olá, tudo bem? <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='130"'>
 
-## Meu nome é Renato, sou programador, amante da tecnologia e gatos! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45">
+## Meu nome é Renato, sou programador, amante da tecnologia, gatos e Python! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45">
 
 - 🎓 Tecnico em Desenvolvimento de Sistemas
 - 🖥🖱 Cursando Análise e Desenvolvimento de Sistemas
