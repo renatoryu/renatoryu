@@ -8,12 +8,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoryu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-# Frase do dia
+## Frase do dia
 <div align="center">
 Python hoje, Python amanhã, Python sempre!
 </div>
   
   ## Linguagens
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Renato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Renato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,6 +26,7 @@ Python hoje, Python amanhã, Python sempre!
 </div>
 
   ## Ferramentas: 
+  
   <img align="center" alt="Nando-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img align="center" alt="Nando-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
