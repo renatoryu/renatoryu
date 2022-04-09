@@ -10,7 +10,9 @@ Olá! <img src="https://user-images.githubusercontent.com/42378118/110234147-e32
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=Saryio&theme=gotham&hide_border=true" />
 </div>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
+<div align="right">
+  ![Profile Views](https://komarev.com/ghpvc/?username=renatoryu)
+  </div>
   
 ## Frase 
 <div align="center">
