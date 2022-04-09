@@ -8,6 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoryu&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatocaetite)](https://www.linkedin.com/in/renatocaetite/)
+
 ## Frase 
 <div align="center">
 O primeiro passo para o entendimento é a confusão.
