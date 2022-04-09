@@ -8,9 +8,12 @@ Olá! <img src="https://user-images.githubusercontent.com/42378118/110234147-e32
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatoryu&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoryu&layout=compact&langs_count=7&theme=gotham"/>
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=Saryio&theme=gotham&hide_border=true" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=renatoryu)
+
 </div>
  
-![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
+
+
   
 ## Frase 
 <div align="center">
