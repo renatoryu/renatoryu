@@ -8,9 +8,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoryu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Frase do dia
+## Frase 
 <div align="center">
-Python hoje, Python amanhã, Python sempre!
+O primeiro passo para o entendimento é a confusão.
 </div>
   
   ## Linguagens
