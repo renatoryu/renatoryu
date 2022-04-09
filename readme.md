@@ -25,7 +25,7 @@ Python hoje, Python amanhã, Python sempre!
 </div>
 
   ## Ferramentas: <br>
-  
+  <div style="display: inline_block"><br>
   <img align="center" alt="Nando-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Nando-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
