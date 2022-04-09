@@ -42,6 +42,7 @@ O primeiro passo para o entendimento é a confusão.
   <a href = "mailto:renatocaetite@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
 
   
     
