@@ -1,6 +1,5 @@
-
-<div align="center"> Oie, eu me chamo Renato, sou programador e amante da tecnologia!
-</div>
+Oie, eu me chamo Renato, sou programador e amante da tecnologia!
+<br><br>
 
 
 
