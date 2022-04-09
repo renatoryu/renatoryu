@@ -12,7 +12,7 @@ Olá! <img src="https://user-images.githubusercontent.com/42378118/110234147-e32
 
 <div align="right">
   ![Profile Views](https://komarev.com/ghpvc/?username=renatoryu)
-  </div>
+</div>
   
 ## Frase 
 <div align="center">
