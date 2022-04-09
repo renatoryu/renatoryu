@@ -10,7 +10,7 @@
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=Saryio&theme=gotham&hide_border=true" />
 </div>
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatoryu&repo=github-readme-stats)](https://github.com/renatoryu/github-readme-stats)
 
 ## Frase 
 <div align="center">
