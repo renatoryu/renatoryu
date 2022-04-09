@@ -9,6 +9,7 @@ Olá! <img src="https://user-images.githubusercontent.com/42378118/110234147-e32
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoryu&layout=compact&langs_count=7&theme=gotham"/>
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=Saryio&theme=gotham&hide_border=true" />
 </div>
+ ![Profile Views](https://komarev.com/ghpvc/?username=renatoryu)
 
 
   
@@ -40,9 +41,8 @@ O primeiro passo para o entendimento é a confusão.
   <a href="https://web.whatsapp.com/send?phone=5511959893829&amp;" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/renatoccz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:renatocaetite@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</div><br>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=renatoryu)
 
   
     
