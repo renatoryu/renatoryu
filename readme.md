@@ -1,6 +1,6 @@
 <br>Olá! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
-## Me chamo Renato, sou programador e amante da tecnologia!
+## Me chamo Renato, sou programador e amante da tecnologia! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 - 🎓 Tecnico em Desenvolvimento de Sistemas
 - 🖥🖱 Cursando Análise e Desenvolvimento de Sistemas
 
