@@ -17,7 +17,7 @@ Olá! <img src="https://user-images.githubusercontent.com/42378118/110234147-e32
 ![Profile Views](https://komarev.com/ghpvc/?username=renatoryu)
 
   
-## Frase 
+## Mensagem 
 <div align="center">
 O primeiro passo para o entendimento é a confusão.
 </div>
