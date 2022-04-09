@@ -1,4 +1,5 @@
-  <br>Olá! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<br>Olá! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
 ## Me chamo Renato, sou programador e amante da tecnologia!
 - 🎓 Tecnico em Desenvolvimento de Sistemas
@@ -11,10 +12,7 @@
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=Saryio&theme=gotham&hide_border=true" />
 </div>
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
+
   
 ## Frase 
 <div align="center">
