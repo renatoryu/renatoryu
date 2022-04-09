@@ -1,3 +1,6 @@
+<img style = "margin-top: 40px;" align="right" width = "width" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+
+
 ## Oie, eu me chamo Renato, sou programador e amante da tecnologia!
 - 🎓 Tecnico em Desenvolvimento de Sistemas
 - 🖥🖱 Cursando Análise e Desenvolvimento de Sistemas
@@ -8,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoryu&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatocaetite)](https://www.linkedin.com/in/renatocaetite/)
+
 
 ## Frase 
 <div align="center">
