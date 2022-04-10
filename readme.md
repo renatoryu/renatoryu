@@ -55,6 +55,7 @@ O primeiro passo para o entendimento é a confusão.
   <a href = "mailto:renatocaetite@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 	<a href="mailto:renatoryuu@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
-
+<div align="center">
   ![Snake animation](https://github.com/renatoryu/renatoryu/blob/output/github-contribution-grid-snake.svg)    
- 
+ </div>
+
