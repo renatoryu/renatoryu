@@ -56,6 +56,10 @@ O primeiro passo para o entendimento é a confusão.
 	<a href="mailto:renatoryuu@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/renatoryu/renatoryu/blob/output/github-contribution-grid-snake.svg)    
+![Snake animation](https://github.com/renatoryu/renatoryu/blob/output/github-contribution-grid-snake.svg)  
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renatoryu)](https://github.com/renatoryu)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/renatoryu)](https://github.com/renatoryu)  
 
 
