@@ -35,12 +35,15 @@ O primeiro passo para o entendimento é a confusão.
   ## Frameworks: <br>
   <div style="display: inline_block"><br>
   <img align="center" alt="Renato-bootstrap" height="38" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Renato-django" height="38" width="50" src="https://cdnlogo.com/logo/django_40656.html">
+
 </div>
 
   ## Ferramentas: <br>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Nando-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Nando-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Renato-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Renato-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+ 
 </div>
  
   ## Contato
