@@ -10,7 +10,7 @@ Olá, tudo bem? <img src="https://user-images.githubusercontent.com/42378118/110
 <div align="center">
   <a href="https://github.com/renatoryu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatoryu&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoryuu&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoryu&layout=compact&langs_count=7&theme=gotham"/>
   <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=renatoryu&theme=gotham&hide_border=true" />
 </div>
 
