@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Renato! A passionate Programmer student from Brazil.
 
-  - 🌱 I'm currently studying systems analysis and development at FATEC-SP <img align="center" alt="html5" src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2012/05/Logo-Fatec-400x400-1.jpg" />
+  - 🌱 I'm currently studying systems analysis and development at FATEC-SP <img align="center" alt="html5" />
 
   - 🔭 I am looking for a job opportunity.
 </p>
