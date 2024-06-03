@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 21 years old, currently living in Brazil, SP. I have intermediate English and have experience with HTML, CSS, JS, SQL and Python.
+  - 💬 I am 21 years old, currently living in Brazil, SP. I have intermediate English and have experience with HTML, CSS, JS, C#, SQL and Python.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
