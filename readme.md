@@ -34,6 +34,7 @@
 - [C# Course - Alura](https://github.com/renatoryu/CSharp_Alura)
 - [Python - ChefAI Gourmet](https://github.com/renatoryu/ChefAIGourmet)
 - [Vue.js - Film Catalog](https://github.com/renatoryu/Vueflix)
+- [Java - Supermarket](https://github.com/renatoryu/Supermarket)
 
 <!-- GIF -->
 <p align="left">
