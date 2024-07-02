@@ -41,8 +41,6 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-<iframe src="https://giphy.com/embed/BYoRqTmcgzHcL9TCy1" width="475" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thank-you-thanks-thumbs-up-BYoRqTmcgzHcL9TCy1">via GIPHY</a></p>
-
 ## My Skills
 
 #### Main Stack:
