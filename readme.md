@@ -37,7 +37,7 @@
 - [Java - Supermarket](https://github.com/renatoryu/Supermarket)
 
 <p align="left">
-  <img align="center" src="assets/gifs/wallpaper.gif" alt="Imagem" width="500" height="auto">
+  <img align="center" src="assets/gifs/wallpaper.gif" alt="Imagem" width="800" height="auto">
 </p>
 
 
