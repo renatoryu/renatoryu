@@ -36,13 +36,8 @@
 - [Vue.js - Film Catalog](https://github.com/renatoryu/Vueflix)
 - [Java - Supermarket](https://github.com/renatoryu/Supermarket)
 
-<!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
-
-<p align="left">
-  <img align="center" src="assets/gifs/wallpaper.gif" alt="Imagem">
+  <img align="center" src="assets/gifs/wallpaper.gif" alt="Imagem" width="500" height="auto">
 </p>
 
 
