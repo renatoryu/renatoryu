@@ -42,7 +42,7 @@
 </p>
 
 <p align="left">
-  <img align="center" src="https://github.com/renatoryu/renatoryu/.github/workflows/assets/gifs/wallpaper.gif" alt="Imagem">
+  <img align="center" src="https://github.com/renatoryu/renatoryu/.github/workflows/assets/gifs/wallpaper" alt="Imagem">
 </p>
 
 
