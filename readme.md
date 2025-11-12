@@ -19,9 +19,9 @@
 
 ## 👨‍💻 About Me
 
-I am a 21-year-old developer based in **São Paulo, Brazil**, currently pursuing a degree in **Systems Analysis and Development at FATEC-SP**. 
+I am a 22-year-old developer based in **São Paulo, Brazil**, currently pursuing a degree in **Systems Analysis and Development at FATEC-SP**. 
 
-My journey in tech is driven by a passion for solving problems through code. I have a solid foundation in backend development with **C# and Java**, and I am expanding my frontend skills with **React and Vue.js**. I am currently **looking for internship or junior opportunities** where I can contribute and grow.
+My journey in tech is driven by a passion for solving problems through code. I have a solid foundation in backend development with **C# and Java**, and I am expanding my frontend skills with **React and Vue.js**. I am currently working at Plusoft.
 
 <details>
   <summary>⚡ <b>Fun facts & Interests</b> (Click to expand)</summary>
