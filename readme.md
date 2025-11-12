@@ -1,6 +1,10 @@
 <div align="center">
   <h1>Hi there, I'm Renato! 👋</h1>
-  <h3>Systems Analysis & Development Student | Aspiring Software Engineer</h3>
+  
+  <h3>Junior Full-Stack Developer | C# & .NET Specialist</h3>
+  <p>
+     Building scalable APIs, Chatbots, and Cloud Solutions with Azure DevOps
+  </p>
   
   <p>
     <a href="https://www.linkedin.com/in/renatocaetite/">
