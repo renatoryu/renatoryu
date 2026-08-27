@@ -2,11 +2,11 @@
 
 # Hi, I'm Renato Caetité 👋
 
-### Backend-focused Software Developer
+### Backend Software Engineer | C# & .NET
 
-**C# • .NET • ASP.NET Core • REST APIs • SQL Server**
+**C# • .NET • ASP.NET Core • REST APIs • SQL Server • Docker • CI/CD**
 
-Building secure, maintainable and well-tested backend applications with modern .NET technologies.
+Building secure, maintainable and well-tested backend systems with modern .NET technologies.
 
 <br>
 
@@ -19,7 +19,9 @@ Building secure, maintainable and well-tested backend applications with modern .
 
 <br><br>
 
-### 🟢 Open to Backend & Full-Stack Software Development Opportunities
+### 🟢 Open to Backend .NET & Software Engineering Opportunities
+
+📍 São Paulo, Brazil
 
 </div>
 
@@ -27,17 +29,29 @@ Building secure, maintainable and well-tested backend applications with modern .
 
 ## 👨‍💻 About Me
 
-I'm a Software Developer from **São Paulo, Brazil**, focused primarily on **backend development with C# and the .NET ecosystem**.
+I'm a **Software Developer focused on Backend Engineering with C# and .NET**, graduated in **Systems Analysis and Development from FATEC-SP**.
 
-I enjoy building applications that go beyond basic CRUD operations, working with concepts such as **authentication, authorization, business rules, API design, relational databases, automated testing, layered architecture, and secure resource access**.
+I have professional experience developing and evolving **corporate applications, APIs, integrations, automations and database-driven solutions**, having worked at **ALL TAX** and **Plusoft**.
 
-My main stack includes **C#, .NET, ASP.NET Core, Entity Framework Core, SQL Server, REST APIs, xUnit, Git, and Azure DevOps**.
+My main focus is building backend applications that go beyond basic CRUD operations, applying concepts such as:
 
-I also have experience with frontend and other technologies including **JavaScript, TypeScript, React, Vue.js, Java, and Python**, allowing me to understand software products beyond the backend layer.
+* API design and RESTful services
+* Authentication and authorization
+* Business rules and domain modeling
+* Relational databases and data access
+* Automated testing
+* Layered and maintainable architectures
+* Secure resource access
+* CI/CD and software delivery
+* Containerization and cloud environments
 
-🎓 **Technology Degree in Systems Analysis and Development — FATEC-SP**
+My core stack includes:
 
-🎯 Currently open to opportunities where I can contribute as a **Backend or Full-Stack Software Developer**, especially working with **C#/.NET**.
+**C# • .NET • ASP.NET Core • Entity Framework Core • SQL Server • REST APIs • xUnit • Docker • GitHub Actions • Azure DevOps**
+
+I also have experience with **TypeScript, React, Node.js, JavaScript, Vue.js, Java and Python**, which gives me a broader understanding of software products beyond the backend layer.
+
+🎯 I'm currently looking for opportunities as a **Backend .NET Developer / Software Engineer**, particularly in environments involving **scalable systems, critical applications, financial technology and digital products**.
 
 ---
 
@@ -45,52 +59,121 @@ I also have experience with frontend and other technologies including **JavaScri
 
 ## 🎫 [FlowDesk — Help Desk Management Platform](https://github.com/renatoryu/FlowDesk)
 
-> A backend-first Help Desk platform built to simulate real-world support workflows while applying modern .NET engineering practices.
+> A full-stack Help Desk platform built with a backend-first approach to simulate real-world enterprise workflows while applying modern .NET engineering practices.
 
 <div align="center">
 
-![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![EF Core](https://img.shields.io/badge/Entity_Framework-Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Tests](https://img.shields.io/badge/Unit_Tests-244_Passing-2EA44F?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active_Development-F7B93E?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Web_API-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-Database-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
+![React](https://img.shields.io/badge/React-TypeScript-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Tests](https://img.shields.io/badge/Backend_Tests-244_Passing-2EA44F?style=flat-square)
+![CI](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Live-2EA44F?style=flat-square)
 
 </div>
 
-FlowDesk is my main portfolio project and demonstrates how I approach the development of a more realistic backend application using **C# and .NET**.
+FlowDesk is my main engineering project and demonstrates how I approach the development of a more realistic software product using **C#/.NET**, automated testing, security, containerization, CI/CD and cloud deployment.
 
-### ✨ Highlights
+### 🌐 Live Application
 
-- 🔐 JWT authentication with rotating refresh tokens
-- 👥 Role-based access for Admin, Agent and Customer users
-- 🛡️ Context-aware authorization and resource protection
-- 🏢 Company and customer management
-- 🎫 Complete ticket lifecycle
-- 🔎 Pagination and filtering
-- 🗑️ Soft deletion
-- 💬 Immutable comments and chronological ticket history
-- 📊 Role-aware operational dashboard
-- 📎 Secure file upload and download
-- ✅ FluentValidation
-- 🗄️ Entity Framework Core + SQL Server
-- 🧪 **244 passing unit tests**
-- 📖 Swagger / OpenAPI
-- 🏗️ Architecture inspired by Clean Architecture
-- 📝 Technical documentation organized by development sprint
-- 🌿 Structured Git workflow using Conventional Commits
+* **Web App:** https://flowdesk-ewe.pages.dev
+* **API / Swagger:** https://flowdesk-api-renato.runasp.net/swagger
+* **Source Code:** https://github.com/renatoryu/FlowDesk
+
+### ✨ Engineering Highlights
+
+* 🔐 JWT authentication with rotating refresh tokens
+* 👥 Role-based access for Admin, Agent and Customer users
+* 🛡️ Context-aware authorization and protected resource access
+* 🏢 Company and customer management
+* 🎫 Complete ticket lifecycle and workflow
+* 🔎 Pagination and filtering
+* 🗑️ Soft deletion
+* 💬 Immutable comments and chronological ticket history
+* 📊 Role-aware operational dashboard
+* 📎 Secure file upload and download
+* ✅ FluentValidation
+* 🗄️ Entity Framework Core + SQL Server
+* 🧪 **244 passing backend unit tests**
+* 🧪 Automated frontend tests with Vitest and Testing Library
+* 📖 Swagger / OpenAPI
+* 🏗️ Architecture inspired by Clean Architecture
+* 🐳 Docker + Docker Compose
+* ❤️ Health checks and persistent database volumes
+* ⚙️ Continuous Integration with GitHub Actions
+* ⚛️ React + TypeScript frontend
+* ☁️ Application deployed to cloud infrastructure
+* 🔒 HTTPS communication between services
+* 📝 Technical documentation organized by development sprint
+* 🌿 Structured Git workflow using Conventional Commits
 
 ### 🛠️ Current Stack
 
-`C#` `.NET 10` `ASP.NET Core` `Entity Framework Core` `SQL Server` `xUnit` `FluentValidation` `Swagger`
+#### Backend
 
-### 🔜 Planned
+`C#` `.NET 10` `ASP.NET Core` `Entity Framework Core` `SQL Server`
 
-`Integration Tests` `React` `TypeScript` `Docker` `CI/CD` `Azure`
+#### Frontend
 
-### 🔗 Explore the Project
+`React 19` `TypeScript` `Vite` `TanStack Query` `React Hook Form` `Zod`
 
-**[View FlowDesk repository →](https://github.com/renatoryu/FlowDesk)**
+#### Testing & Quality
+
+`xUnit` `FluentValidation` `Vitest` `Testing Library` `Swagger / OpenAPI`
+
+#### Infrastructure & Delivery
+
+`Docker` `Docker Compose` `GitHub Actions` `CI/CD` `Cloudflare Pages`
+
+### 📐 Architecture
+
+The solution follows an architecture inspired by **Clean Architecture**, separating responsibilities across:
+
+`Domain → Application → Infrastructure → API → Web`
+
+The goal is to maintain clear boundaries between business rules, application use cases, infrastructure concerns and external interfaces.
+
+### 🔜 Next Engineering Challenges
+
+`Integration Tests` `Testcontainers` `RabbitMQ` `Redis` `Observability` `Distributed Systems` `Cloud Architecture`
+
+### 🔗 Explore FlowDesk
+
+**[View repository →](https://github.com/renatoryu/FlowDesk)**
+
+**[Open live application →](https://flowdesk-ewe.pages.dev)**
+
+---
+
+# 💼 Professional Background
+
+## ALL TAX
+
+Worked on the development and evolution of corporate software solutions involving:
+
+* APIs and system integrations
+* Backend and web development
+* Database-driven applications
+* Process automation
+* CI/CD and development workflows
+* Cloud-related environments and services
+
+## Plusoft
+
+Worked with software development and integrations in corporate environments involving:
+
+* APIs and integrations
+* Automation
+* Web applications
+* Backend services
+* Databases
+* Software maintenance and evolution
+
+Technologies used throughout my professional experience include:
+
+`C#` `.NET` `ASP.NET` `SQL` `Node.js` `TypeScript` `React` `Azure DevOps`
 
 ---
 
@@ -105,11 +188,6 @@ FlowDesk is my main portfolio project and demonstrates how I approach the develo
   <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-</p>
-
 ## Databases
 
 <p>
@@ -121,50 +199,63 @@ FlowDesk is my main portfolio project and demonstrates how I approach the develo
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 </p>
 
-## Testing, Tools & DevOps
+## Testing & Quality
 
 <p>
   <img src="https://img.shields.io/badge/xUnit-Testing-512BD4?style=flat-square">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/FluentValidation-Validation-512BD4?style=flat-square">
+  <img src="https://img.shields.io/badge/Vitest-Testing-6E9F18?style=flat-square&logo=vitest&logoColor=white">
 </p>
+
+## DevOps & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+</p>
+
+## Additional Technologies
+
+`Node.js` `Java` `Python` `HTML` `CSS` `Linux`
 
 ---
 
 # 📂 Other Projects
 
-While my main focus is currently the **.NET ecosystem**, I have also built projects using different technologies to expand my software development experience.
+While my main focus is **Backend Engineering with .NET**, I have also developed projects using different technologies to broaden my software engineering experience.
 
-| Project | Stack | Description |
-|---|---|---|
-| 🤖 **[ChefAI Gourmet](https://github.com/renatoryu/ChefAIGourmet)** | Python, Generative AI | AI-powered recipe assistant that suggests meals based on ingredients available to the user. |
-| 🎬 **[Vueflix](https://github.com/renatoryu/Vueflix)** | Vue.js, JavaScript | Movie catalog application focused on frontend development and API consumption. |
-| 🛒 **[Supermarket System](https://github.com/renatoryu/Supermarket)** | Java, OOP | Application built to practice object-oriented programming and domain modeling concepts. |
+| Project                                                               | Stack                 | Description                                                                      |
+| --------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------------------- |
+| 🤖 **[ChefAI Gourmet](https://github.com/renatoryu/ChefAIGourmet)**   | Python, Generative AI | AI-powered recipe assistant that suggests meals based on available ingredients.  |
+| 🎬 **[Vueflix](https://github.com/renatoryu/Vueflix)**                | Vue.js, JavaScript    | Movie catalog application focused on frontend development and API consumption.   |
+| 🛒 **[Supermarket System](https://github.com/renatoryu/Supermarket)** | Java, OOP             | Application focused on object-oriented programming and domain modeling concepts. |
 
 ---
 
 # 📈 Engineering Focus
 
-I'm currently deepening my knowledge in:
+I'm currently deepening my knowledge in areas that are highly relevant to modern backend and distributed systems:
 
-- 🏗️ Backend architecture and software design
-- 🌐 REST API design
-- 🔐 Authentication and authorization
-- 🧪 Unit and integration testing
-- 🗄️ SQL and relational data modeling
-- 🐳 Docker and containerization
-- ⚙️ CI/CD pipelines
-- ☁️ Microsoft Azure
-- ⚛️ React + TypeScript
+* 🏗️ Backend architecture and software design
+* 🧩 Clean Architecture and software design patterns
+* 🌐 REST API design
+* 🔐 Authentication and authorization
+* 🧪 Unit and integration testing
+* 🗄️ SQL and relational data modeling
+* 📨 Messaging and asynchronous processing
+* ⚡ Caching and Redis
+* 🐳 Containers and Docker
+* ⚙️ CI/CD pipelines
+* ☁️ Cloud architecture
+* 📊 Observability
+* 🌐 Distributed systems
 
 ---
 
@@ -180,22 +271,30 @@ I'm currently deepening my knowledge in:
 
 # 🌎 Languages
 
-**Portuguese** — Native  
+**Portuguese** — Native
 **English** — Intermediate
 
 ---
 
-# 🤝 Let's Build Something Together
+# 🎯 Career Interests
 
-I'm currently **open to new software development opportunities**, especially roles involving:
+I'm especially interested in software engineering opportunities involving:
 
-**C# • .NET • Backend Development • REST APIs • SQL • Full-Stack Development**
+**C# • .NET • Backend Engineering • APIs • Distributed Systems • SQL • Cloud • Financial Technology • Critical Systems**
 
-If you're a recruiter, engineering manager, developer, or simply interested in one of my projects, feel free to reach out.
+I'm particularly motivated by environments where **software reliability, scalability, security and engineering quality** have a direct impact on the business.
+
+---
 
 <div align="center">
 
-### 📫 Contact
+# 🤝 Let's Connect
+
+I'm currently open to opportunities as a **Backend .NET Developer / Software Engineer**.
+
+If you're a recruiter, engineering manager, developer or simply interested in one of my projects, feel free to reach out.
+
+<br>
 
 <a href="https://www.linkedin.com/in/renatocaetite/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
