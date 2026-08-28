@@ -272,7 +272,7 @@ I'm currently deepening my knowledge in areas that are highly relevant to modern
 # 🌎 Languages
 
 **Portuguese** — Native
-**English** — Intermediate
+**English** — Advanced
 
 ---
 
